@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPExample</string>
+    <string name="user_name">username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="username_error">incorrect username</string>
+    <string name="password_error">incorrect password</string>
+</resources>
